@@ -1,4 +1,4 @@
-##makeCacheMatrix() is a function that holds four following functions
+##makeCacheMatrix() is a function that lists and holds the four following functions
 ##set() sets the value of the matrix
 ##get() returns the value of the matrix
 ##setinv() sets the value of the inverse matrix
